@@ -89,4 +89,3 @@ Il codice è organizzato in moduli, con header dedicati per la gestione dei thre
 ## 📜 Licenza
 
 Distribuito per scopi didattici.  
-Puoi aggiungere una licenza MIT o altra, se desideri condividere pubblicamente il progetto.
